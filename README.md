@@ -1,0 +1,2 @@
+# 58fb2f346f9dbae6-creative-services-lead-capture
+Built for creative services professionals who are tired of wrestling with incompatible WordPress plugins that fight each other.  Compatible with all major WordPress themes and page builders. Fully documented admin settings panel — no code required for configuration.  ## What's Included  - Creative Services Lead Capture And Crm Sync — fully configur
